@@ -67,7 +67,7 @@ inputs:
 run:
   serial:
   - op:
-      ref: github.com/opspec-pkgs/docker.config.clean#1.0.1
+      ref: github.com/amukas/docker.config.clean#1.0.2
       inputs:
         dockerConfig:
       outputs:
